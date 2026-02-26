@@ -55,6 +55,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Tech%2B-FF6600?&style=for-the-badge&logoColor=white" alt="CompTIA Tech+" />
+<img src="https://img.shields.io/badge/-Cisco%20CCNA-1BA0D7?&style=for-the-badge&logoColor=white" alt="Cisco CCNA" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logoColor=white" alt="Microsoft Azure Fundamentals" />
+</a>
 </div>
 
 ## 🗂️Projects

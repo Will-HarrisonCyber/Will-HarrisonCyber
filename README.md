@@ -1,6 +1,6 @@
 # Hello,👋🏻 I'm Will
-<a href="(https://linkedin.com)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://linkedin.com/in/will-harrison"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/username"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://github.com/Will-HarrisonCyber"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]

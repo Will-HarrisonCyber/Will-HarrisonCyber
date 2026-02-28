@@ -3,6 +3,7 @@
 <a href="https://x.com/username"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://github.com/Will-HarrisonCyber"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://wa.me/07484624847"><img src="https://img.shields.io/badge/-WhatsApp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
 [Brief Introduction - Remove this afterwards]
 
 I am a Currently working towards a cybersecurity traineeship with a profound interest in technology and a dedication to solving complex problems.
